@@ -230,3 +230,72 @@ Received Import Request.
 Start importing Assets/Prefabs using Guid(329e764b833c8594a8572fe9509ac2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c157d7ae5c6da42f4eef5b894e06fa2') in 0.000592 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1713.856118 seconds.
+  path: Assets/Audio
+  artifactKey: Guid(cb25633c5f3a84340bc6664e4548cfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(cb25633c5f3a84340bc6664e4548cfbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41de5b08cbeaca8bcabdd400f3c53787') in 0.000571 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.451888 seconds.
+  path: Assets/Audio/Game Intro.mp3
+  artifactKey: Guid(41c58a872a1cbf34caa0c50f53aa149b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Game Intro.mp3 using Guid(41c58a872a1cbf34caa0c50f53aa149b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf406cf8f8f83b77bb07470971aae82') in 0.107214 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Audio/PacStudent Move.mp3
+  artifactKey: Guid(bb66225db01a9894f99faffc09008c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/PacStudent Move.mp3 using Guid(bb66225db01a9894f99faffc09008c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58011eb430ac749a150a21ff125320db') in 0.011615 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 993.052845 seconds.
+  path: Assets/Audio/Game Intro 1.mp3
+  artifactKey: Guid(70607d6791cf7fd469e91580c7d36b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Game Intro 1.mp3 using Guid(70607d6791cf7fd469e91580c7d36b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc262fe55751d9f1abac563da67162f2') in 0.008072 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002249 seconds.
+  path: Assets/Audio/PacStudent Collide.mp3
+  artifactKey: Guid(ab2a892e7a35a4943a9b7ff12943d897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/PacStudent Collide.mp3 using Guid(ab2a892e7a35a4943a9b7ff12943d897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e41a81eb1192bd4f1756d61a96d2f1') in 0.013643 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Audio/PacStudent Death 1.mp3
+  artifactKey: Guid(9db596141dfd2504ca5aa4b0e68bdfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/PacStudent Death 1.mp3 using Guid(9db596141dfd2504ca5aa4b0e68bdfe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9308ce28471ce421822a490696149803') in 0.011339 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Audio/Ghost Death.mp3
+  artifactKey: Guid(12a65f1eac325b84e9864b4e76cc47b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Ghost Death.mp3 using Guid(12a65f1eac325b84e9864b4e76cc47b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf2cfa689160562855425776ce067f58') in 0.013741 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Audio/Pellet Consumption 1.mp3
+  artifactKey: Guid(5035c45421521c14f8ca6848aacb4c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/Pellet Consumption 1.mp3 using Guid(5035c45421521c14f8ca6848aacb4c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '593d7761c7342a65c0ef91e4e7ca49b5') in 0.016504 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
