@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8c0fe4694c887e14fa170d571a8dfcaa
+guid: 04d5ff9ee4c5c8e4c82eafc0fbee8a93
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,7 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Squid Dead_0
+      name: Powerup_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70fec6927ab43894fa88f16ffed602e0
-      internalID: -964467736
+      spriteID: a05e9c919812b7942b185c6e04b12a7d
+      internalID: -517614759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squid Dead_1
+      name: Powerup_1
       rect:
         serializedVersion: 2
         x: 32
@@ -142,35 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3e735ae7d6d7c54797b5a7be2d17c72
-      internalID: 324926019
+      spriteID: 23e1a46c8b993b04488cc9bd936e62e3
+      internalID: 895768207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squid Dead_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 421a6755ddce57341b6fe2e19d1b5a2b
-      internalID: 320217517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Squid Dead_3
+      name: Powerup_2
       rect:
         serializedVersion: 2
         x: 0
@@ -184,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3e72c50f19e5ee44a845fe918a354a7
-      internalID: 139794421
+      spriteID: 0a265381c97513443b370275e963960d
+      internalID: -269166035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squid Dead_4
+      name: Powerup_3
       rect:
         serializedVersion: 2
         x: 32
@@ -205,35 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 870c47b0bb661c84fa74efc1773b4722
-      internalID: 856831807
+      spriteID: b84c4b7cf7e0f8049b6f84ae5803a8d1
+      internalID: 666913776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squid Dead_5
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b2ad33404f18234082dce22c7d6b628
-      internalID: 914190886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Squid Dead_6
+      name: Powerup_4
       rect:
         serializedVersion: 2
         x: 0
@@ -247,8 +205,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 438ced56fc7797748886f47062069d8b
-      internalID: -584351843
+      spriteID: fd15bd9bd6accc4488a8d5c7bdaa5070
+      internalID: -1374800499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Powerup_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdef4a8090a285a4386e145a41ddba79
+      internalID: -2046133047
       vertices: []
       indices: 
       edges: []
@@ -264,13 +243,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Squid Dead_0: -964467736
-      Squid Dead_1: 324926019
-      Squid Dead_2: 320217517
-      Squid Dead_3: 139794421
-      Squid Dead_4: 856831807
-      Squid Dead_5: 914190886
-      Squid Dead_6: -584351843
+      Powerup_0: -517614759
+      Powerup_1: 895768207
+      Powerup_2: -269166035
+      Powerup_3: 666913776
+      Powerup_4: -1374800499
+      Powerup_5: -2046133047
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8c0fe4694c887e14fa170d571a8dfcaa
+guid: 53e1c88c9211f85498ca51eef08b1c82
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,70 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Squid Dead_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70fec6927ab43894fa88f16ffed602e0
-      internalID: -964467736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Squid Dead_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3e735ae7d6d7c54797b5a7be2d17c72
-      internalID: 324926019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Squid Dead_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 421a6755ddce57341b6fe2e19d1b5a2b
-      internalID: 320217517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Squid Dead_3
+      name: Orange Ghost_0
       rect:
         serializedVersion: 2
         x: 0
@@ -184,14 +121,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3e72c50f19e5ee44a845fe918a354a7
-      internalID: 139794421
+      spriteID: d72a6f6f4c9f92a458845ad27f39bb9a
+      internalID: -319822405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squid Dead_4
+      name: Orange Ghost_1
       rect:
         serializedVersion: 2
         x: 32
@@ -205,35 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 870c47b0bb661c84fa74efc1773b4722
-      internalID: 856831807
+      spriteID: 98fd2fa87a8f239489388c2d634eafa0
+      internalID: 656853180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Squid Dead_5
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b2ad33404f18234082dce22c7d6b628
-      internalID: 914190886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Squid Dead_6
+      name: Orange Ghost_2
       rect:
         serializedVersion: 2
         x: 0
@@ -247,8 +163,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 438ced56fc7797748886f47062069d8b
-      internalID: -584351843
+      spriteID: a4a0b900054aa344e87d403742839831
+      internalID: -1834485072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Ghost_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b40b0e108f56e41bc41b550d710cf0
+      internalID: 1310273073
       vertices: []
       indices: 
       edges: []
@@ -264,13 +201,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Squid Dead_0: -964467736
-      Squid Dead_1: 324926019
-      Squid Dead_2: 320217517
-      Squid Dead_3: 139794421
-      Squid Dead_4: 856831807
-      Squid Dead_5: 914190886
-      Squid Dead_6: -584351843
+      Orange Ghost_0: -319822405
+      Orange Ghost_1: 656853180
+      Orange Ghost_2: -1834485072
+      Orange Ghost_3: 1310273073
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
